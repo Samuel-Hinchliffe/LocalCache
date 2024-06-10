@@ -1,5 +1,3 @@
-\_<br />
-
 <div align="center">
   <a >
     <img src="https://github.com/Samuel-Hinchliffe/LocalCache/blob/main/git/logo.jpg" alt="Logo" width="100" height="100" style="border-radius: 100%">
