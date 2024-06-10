@@ -1,0 +1,1 @@
+import { ILocalCache } from "../interfaces/ILocalCache";
